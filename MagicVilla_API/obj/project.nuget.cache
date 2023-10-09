@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "idbhofXraG0KUyUP8i0dEoLZ7a+t0l8dE4DItipiJ1GFl23qM8b8Ew3yaL6YcFIEyxiyOtfjC3KS0Xzkd2zpxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Salvador\\Proyectos .NET\\MagicVilla_API\\MagicVilla_API\\MagicVilla_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvador\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\Salvador\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Salvador\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Salvador\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Salvador\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Salvador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Salvador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
